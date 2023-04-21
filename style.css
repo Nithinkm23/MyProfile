@@ -1,0 +1,25 @@
+.one h2{
+text-align: center;
+background-color: black;
+color:white
+}
+.two h3{
+    text-align: center;
+
+} 
+.two li{
+    text-align: justify;
+}
+.three h3{
+    text-align: center;
+}
+.four h3{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color:red;
+}
