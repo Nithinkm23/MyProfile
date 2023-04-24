@@ -1,25 +1,35 @@
-.one h2{
-text-align: center;
-background-color: black;
-color:white
+.one h2 {
+    text-align: center;
+    background-color: black;
+    color: white
 }
-.two h3{
+
+.two h3 {
     text-align: center;
 
-} 
-.two li{
+}
+
+.card-img {
+    opacity: 0.5;
+}
+
+.px_wide {
+    width: 650px;
+}
+
+.two li {
     text-align: justify;
 }
-.three h3{
+
+.three h3 {
     text-align: center;
 }
-.four h3{
+
+.contact h3 {
     text-align: center;
 }
-form{
-    text-align: justify;
-}
-footer{
+
+footer {
     text-align: center;
-    color:red;
+    color: red;
 }
